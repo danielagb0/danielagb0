@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielagb0, I'm a software engineer and postgraduate in finance
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, CI/CD and quality of code
 - 🌱 I’m currently learning AI
 
 
